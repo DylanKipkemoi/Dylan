@@ -29,7 +29,7 @@
 
 ## <div id="header" align="center"> Welcome To my World
 
-   My name is Joshua Murithi. I am a Python | Javascript | Go-lang Software Developer.My interests tend to revolve in named Technologies i.e Machine learning, Data science, Web dev and Writing scripts that make our lives easier and lazier😄
+   My name is Hillary Kipkemoi. I am a Python | Javascript | Go-lang Software Developer.My interests tend to revolve in named Technologies i.e Machine learning, Data science, Web dev and Writing scripts that make our lives easier and lazier😄
 
    A nomad at heart,Ever learning and loves to try new technologies. 
 </div>
@@ -89,9 +89,9 @@
   </a>
 
    <a 
-    href="https://github-readme-streak-stats.herokuapp.com/?user=Murithijoshua">
+    href="https://github-readme-streak-stats.herokuapp.com/?user=DylanKipkemoi">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Murithijoshua">
+      src="https://github-readme-streak-stats.herokuapp.com/?user=DylanKipkemoi">
   </a>
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Murithijoshua&layout=compact">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murithijoshua&layout=compact" width="300">
